@@ -1,0 +1,1 @@
+Get-Childitem -Path "W:\Penumbra Storage" | select Name, Length, LastWriteTime > manifest.txt
