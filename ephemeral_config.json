@@ -1,0 +1,20 @@
+﻿{
+  "Version": 9,
+  "LastSeenVersion": 42,
+  "DebugSeparateWindow": false,
+  "TutorialStep": 29,
+  "EnableResourceLogging": false,
+  "ResourceLoggingFilter": "",
+  "EnableResourceWatcher": false,
+  "OnlyAddMatchingResources": true,
+  "ResourceWatcherResourceTypes": 576460752303423487,
+  "ResourceWatcherResourceCategories": 16383,
+  "ResourceWatcherRecordTypes": 15,
+  "CollectionPanel": 0,
+  "SelectedTab": 2,
+  "ChangedItemFilter": 114687,
+  "FixMainWindow": false,
+  "LastModPath": "(ph) Library of Ruina in Crystalline Conflict",
+  "AdvancedEditingOpen": false,
+  "ForceRedrawOnFileChange": false
+}

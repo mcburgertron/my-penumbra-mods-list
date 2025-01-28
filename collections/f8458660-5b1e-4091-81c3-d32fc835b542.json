@@ -1,0 +1,3479 @@
+﻿{
+  "Version": 2,
+  "Id": "f8458660-5b1e-4091-81c3-d32fc835b542",
+  "Name": "Default",
+  "Settings": {
+    "(CGA) BiboTre Rescaled Crystarium tabard of fending": {
+      "Settings": {
+        "Default": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "(CGA) Neo Kingdom Tabard of Fending Tre Rescale!": {
+      "Settings": {
+        "Main": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "(CGA) Quetzalli Mail of Fending BiboTre Rescale": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "(Doom Spike) Hissatsu Guren": {
+      "Settings": {
+        "Lalafell?": 1
+      },
+      "Priority": 2,
+      "Enabled": true
+    },
+    "(ph) Among Us Bozja": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "(ph) Library of Ruina in Crystalline Conflict": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "7.0 Thancred Lip Fix": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "A Beautiful Day x Nikki": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "A TEST OF YOUR HEALERS": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "A TEST OF YOUR RESCUE": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "AA EE OO Dancing": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Aaaaaaaaaahhh! Anime scream": {
+      "Settings": {
+        "SFX": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Aaaawubadugh Infuriate": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "AAC Arcadion Pokemon Gym Leader Metal": {
+      "Settings": {
+        "Arcadion": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Abyssinian Ears": {
+      "Settings": {
+        "Vanilla Tails": 1,
+        "I Heard You Like Fluff": 1,
+        "Ears Only": 1
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Activating Combat Mode on QTE": {
+      "Settings": {
+        "Activating Combat Mode": 1,
+        "Conflict Resolved": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "ACTUAL ultimate weap": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Adamantoise Black": {
+      "Settings": {
+        "Adamantoise": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "adamantoise not spinning": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Advent of BIRD UP BASTION": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Air Horn": {
+      "Settings": {
+        "anim": 0,
+        "Sound": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "All Saints' Nuke": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "alpaca girly pop": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "American Magic": {
+      "Settings": {
+        "Options": 7
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "AMOGus": {
+      "Settings": {
+        "Required": 0,
+        "Color Options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Among Us - Ninja Rabbit": {
+      "Settings": {
+        "Among Us - Ninja Rabbit": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Anchorite's Set for TBSE-X": {
+      "Settings": {
+        "Default": 0,
+        "Items": 31,
+        "Updated Materials": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Angry Anime baka!": {
+      "Settings": {
+        "SFX": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Angry anime scream!": {
+      "Settings": {
+        "SFX": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "AnimeSusAaa": {
+      "Settings": {
+        "Toggle": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Antelope To Athena": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Anvil": {
+      "Settings": {
+        "Anvil Type": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Argonians": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Arknights Death SFX": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Asbel Battle Voice": {
+      "Settings": {
+        "Battle Voice To Replace (Group 1)": 2147483647,
+        "Battle Voice To Replace (Group 2)": 4294967295,
+        "Battle Voice To Replace (Group 3)": 4294967295,
+        "Battle Voice To Replace (Group 4)": 4294967295,
+        "Battle Voice To Replace (Group 5)": 536870911
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "AstrologianBattleVoice": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Au Ra F Play Dead for Miqo F": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Automatons from Helldivers2": {
+      "Settings": {
+        "机器人": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Automatons Mine": {
+      "Settings": {
+        "VFX": 0,
+        "Benben Stone": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "AUUUUUUU": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Ayaya-wow": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Ayaya-wow lala edition": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "ba'al buster": {
+      "Settings": {
+        "magnolia flower options": 1,
+        "chest options": 1,
+        "ba'al buster": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "BABY YODA [Minion]": {
+      "Settings": {
+        "Wind-Up Lakshmi": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Back to the Future Train": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Backless Exarchic Dress": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Barry (Despair)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Bayonetta's Walk Cycle (Giorno edition)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Bee my MEOW": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Benediction Cumberbatch": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Bestest Waymarks": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Better Waymarks": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Bibo+": {
+      "Settings": {
+        "Core Files: Skin Materials": 0,
+        "Core Files: Pube Hair Library": 0,
+        "Core Files: Skin Multi Maps": 0,
+        "Core Files: Old NPCs": 0,
+        "Core Files: Underwear Materials": 0,
+        "Core Files: Au Re Neck Connector": 0,
+        "Midlander, Elezen, Miqo - SKIN DETAIL": 0,
+        "Midlander, Elezen, Miqo - PUBIC HAIR": 6,
+        "Highlander, Roegadyn - SKIN DETAIL": 0,
+        "Highlander, Roegadyn - PUBIC HAIR": 6,
+        "Au Ra : Raen - SKIN DETAIL": 0,
+        "Au Ra: Raen  - PUBIC HAIR": 6,
+        "Au Ra : Xaela - SKIN DETAIL": 0,
+        "Au Ra : Xaela - PUBIC HAIR": 6,
+        "Hrothgar - SKIN DETAIL": 0,
+        "Hrothgar - PUBIC HAIR": 6,
+        "Viera - SKIN DETAIL": 0,
+        "Viera - PUBIC HAIR": 6,
+        "Breasts - Emperor's New Chest": 0,
+        "Breasts - Small Clothes": 0,
+        "Breasts - Small Clothes (NPC)": 0,
+        "Bottoms - Emperor's New Breeches": 0,
+        "Bottoms - Small Clothes": 0,
+        "Bottoms - Small Clothes (NPC)": 1,
+        "Hands": 7,
+        "Feet": 7,
+        "You're Done!": 0
+      },
+      "Priority": 15,
+      "Enabled": true
+    },
+    "Bing chilling thumb up": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "BlackmageBattleVoice": {
+      "Settings": {},
+      "Priority": 2,
+      "Enabled": true
+    },
+    "Blahaj Cuddle V2 [Kai]": {
+      "Settings": {
+        "Animations": 0,
+        "Shark Colour": 0,
+        "Required": 0,
+        "F Hrothgar Animation": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Blblbl (Emote)": {
+      "Settings": {
+        "Miqo'te": 0,
+        "Au Ra": 0,
+        "Viera": 0,
+        "Midlander": 0,
+        "Highlander": 0,
+        "Elezen": 0,
+        "Roegadyn": 0,
+        "Lalafell": 0,
+        "Hrothgar": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "BLU Action Learned": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Bonk Hammer": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Boring Battle - RPR": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Boring Battle - SAM": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Born Pink - Infinity Nikki Hair Port": {
+      "Settings": {
+        "Required Files": 0,
+        "Models (Select only one for miqo)": 5
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Brainrot Shower": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Breakdance Padoru": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Bring Mug Back": {
+      "Settings": {
+        "Core": 0,
+        "Icons": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Bubblegum": {
+      "Settings": {
+        "Ear Wiggles": 15,
+        "No Ear Wiggles": 0,
+        "Bubblegum 1 Music": 0,
+        "Bubblegum 2 Music": 0
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Bubbly Voyage x Nikki": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Bullshit, Buuuulshit, Derivative": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Bunny Carbuncle": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Bygone Serenity Piano Cover (ChewieMelodies)": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Calnus Mount": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Cartridge Screenshake": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Cash Shop Posters": {
+      "Settings": {
+        "A Realm Reborn patches": 31,
+        "Heavensward patches": 31,
+        "Stormblood patches": 63,
+        "Shadowbringers patches": 31,
+        "Endwalker patches": 31,
+        "Dawntrail patches": 1,
+        "Valentione's Day": 3,
+        "Little Ladies' Day": 3,
+        "Hatching-Tide": 3,
+        "Moonfire Faire": 3,
+        "The Rising": 1,
+        "All Saints' Wake": 3,
+        "Starlight Celebration": 15,
+        "Other posters": 31
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Cat Mew": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Cat Screaming": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "CC Normal - It's Pizza Time!": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "CC Overtime - The Death that I Deservioli": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Celestial Vanguard": {
+      "Settings": {
+        "Binary Star Combo": 7
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Chain Leash VFX": {
+      "Settings": {
+        "Required": 0,
+        "Variants": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "chandelier 3": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Change M2 aoes": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Changing Season Limsa Day": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Chicken Nuggies for All": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "chiikawa minion": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Choco Taco": {
+      "Settings": {
+        "Default": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Choco-less Meteor+": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "CHOCOLATE": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Chonky Cats": {
+      "Settings": {
+        "Neccesary Files": 0,
+        "Model": 1,
+        "Cat Colour": 2,
+        "Collar Colour": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Chronopolis 9": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Cleric Stance - BLM VFX Mod": {
+      "Settings": {
+        "Character": 3,
+        "Abilities": 31,
+        "Blizzard Spells - Holy Magic": 127,
+        "Fire Spells - Conjury": 127,
+        "Thunder Spells": 15,
+        "Unaspected Spells": 7
+      },
+      "Priority": 3,
+      "Enabled": true
+    },
+    "Clock Town for Idyllshire": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Clouddark Aiming for Muse": {
+      "Settings": {
+        "Items": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Color Your Night - Limsa Night Theme": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Come Neverar test": {
+      "Settings": {
+        "Neverar": 0
+      },
+      "Priority": 2,
+      "Enabled": true
+    },
+    "Craftsman's Apron (Muse)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "CrouchPeekOverObject": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Crystarium Longsword - SAM and DRK": {
+      "Settings": {
+        "Crystarium Longsword": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "CS1.6 Bomb has been planted On Earthly star": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Cuno doesn't care about physranged defensives": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Cursed F Miqo Walk": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "D'oh I Missed": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Dacky's Ul'dah Wii Sports Style BGM": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Dai-ryumayaku Jufuku of Fending EDIT": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Dallas High Jump": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Darkest Dance": {
+      "Settings": {
+        "Options": 3,
+        "Feathers": 0,
+        "Dress": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Darude Bardstorm": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Delete Hrothgar": {
+      "Settings": {},
+      "Priority": 2,
+      "Enabled": false
+    },
+    "DiamondLongsword": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Digglet [Shush] [Mittens]": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Digitize 1": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Digitize 2": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "DINGDINGDING! WOOO! REVISIT!": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Discord Notification Point": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "doom spike replacement": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Dote nuke 2": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Doton Fart": {
+      "Settings": {
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Douce Lune - Panties - Upscale+": {
+      "Settings": {
+        "Bimbo+": 1,
+        "Citrus+": 1,
+        "Rue+ Watermelon Crushers": 1,
+        "Rue+ Skull Crushers": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Dr Phill Throws Rocks at your window": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "DRG Becomes GNB": {
+      "Settings": {
+        "Idle": 1,
+        "Movement": 1,
+        "Emotes": 3,
+        "Skills & Abilities, Part 1": 4294967295,
+        "Skills & Abilities, Part 2": 15,
+        "Limit Breaks": 3,
+        "Sky Shatter Targeting Effect": 0,
+        "Weapons (Holy Lance)": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Drill - GET A LOAD OF THIS!": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "DSR Music Edit - Dragonswamp's Reprise": {
+      "Settings": {
+        "P1 - The Heavens' Ward": 1,
+        "P2 - Heroes": 1,
+        "P3 - Freefall": 1,
+        "P4 - Contention": 1,
+        "P4 Enrage - Primogenitor": 1,
+        "Rewind - Hallowed Halls": 1,
+        "P5 - Heavensward": 1,
+        "P6 - Dragonsong": 1,
+        "P7 - Revenge Twofold (Orchestral Version)": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "DSR Rewind [Dote]": {
+      "Settings": {
+        "Merges": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "DunSAM - Dunban Quotes for Samurai": {
+      "Settings": {
+        "Skills": 33554431
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Dva Voice Pack UwU": {
+      "Settings": {
+        "Emote Voice To Replace (Group 1)": 0,
+        "Emote Voice To Replace (Group 2)": 0,
+        "Emote Voice To Replace (Group 3)": 0,
+        "Emote Voice To Replace (Group 4)": 0,
+        "Emote Voice To Replace (Group 5)": 0,
+        "Emote Voice To Replace (Group 6)": 0,
+        "Emote Voice To Replace (Group 7)": 0,
+        "Emote Voice To Replace (Group 8)": 0,
+        "Emote Voice To Replace (Group 9)": 0,
+        "Emote Voice To Replace (Group 10)": 0,
+        "Emote Voice To Replace (Group 11)": 0,
+        "Emote Voice To Replace (Group 12)": 0,
+        "Emote Voice To Replace (Group 13)": 0,
+        "Emote Voice To Replace (Group 14)": 0,
+        "Emote Voice To Replace (Group 15)": 0,
+        "Emote Voice To Replace (Group 16)": 0,
+        "Emote Voice To Replace (Group 17)": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Eagle": {
+      "Settings": {
+        "Music": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Eat Riceball to Eat Chicken": {
+      "Settings": {
+        "Swaps": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Edengrace Collar Fix": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Eggus doggus": {
+      "Settings": {
+        "Mood": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "eheheheheheheehehh": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Elden Ring Bandit Curved Swords for VPR": {
+      "Settings": {
+        "Items": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Elden Ring Falchions for VPR": {
+      "Settings": {
+        "Items": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Elden Ring Great Katana for DRK": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Elden Ring Halo Scythe for RPR": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Eldenring Battle Axe for PLD and WAR": {
+      "Settings": {
+        "Items": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Elegy - Delphine": {
+      "Settings": {
+        "Top Metadata": 0,
+        "Top Size": 2,
+        "Top Fabric": 2,
+        "Top Dye": 1,
+        "Options": 1,
+        "Bottom Size": 0,
+        "Bottom Fabric": 2,
+        "Bottom Dye": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Elizabeth Bathory Voice for Female Au Ra": {
+      "Settings": {
+        "Emote Voice To Replace (Group 1)": 4095,
+        "Battle Voice To Replace (Group 1)": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Elusive PARKOUR": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Epona": {
+      "Settings": {
+        "Default": 0,
+        "weapon": 0,
+        "top options": 0,
+        "down options": 0,
+        "metal options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Everkeep Solitary Confinement": {
+      "Settings": {
+        "Everkeep Solitary Confinement": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Excaligator": {
+      "Settings": {
+        "Size": 2
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Executioner mixer": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Explosive bunny": {
+      "Settings": {
+        "Unlucky Rabbit": 0,
+        "Custom Animation": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Explosive Snap": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "FATE Failed Spongebob Sound": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Feixiao Ultimate (Reawaken)": {
+      "Settings": {
+        "[VFX] Reawaken Recolor (Turquoise)": 0,
+        "[Voice] Serpents Ire (I venture forth to hunt)": 0,
+        "[Voice] Reawaken (Always soaring Forever triumphant)": 1,
+        "[Voice] Ouroboros (Victory is inevitable)": 1,
+        "[Voice] 1st-4th Combos (Battle Voicelines)": 0
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Female Roll Dance": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Fendox - Dwarven Braids": {
+      "Settings": {
+        "Default": 0,
+        "Races": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Festive Chicken Zenos": {
+      "Settings": {
+        "Enkidu": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "FFIX UI Sound": {
+      "Settings": {
+        "Options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "FFXIII - Crazy Chocobo (Chocobo Mount Theme)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "FFXIII - XIII-2 - Island Sanctuary (Unnamed Island)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "FFXIII LR Sunset Path (Housing Day & Night)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Final Fantasy XIII - Victory Fanfare": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Final Fantasy XIII-2 - Glory Fanfare": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Final Fantasy XIII-2 - Victory Fanfare": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Fix MY TURN": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Flamestrider": {
+      "Settings": {
+        "Replacements": 3,
+        "Color Scheme": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "flare werfen": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Flat Waymarks": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Floral witch hat - fmiqo only": {
+      "Settings": {
+        ";w;": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Footstep sound increase": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Forgiven Rapture": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "FUCK BEES": {
+      "Settings": {},
+      "Priority": 2,
+      "Enabled": true
+    },
+    "G'raha Tia Staff": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Gachi Blota-Inner Chaos": {
+      "Settings": {
+        "Options": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Gangnam Style": {
+      "Settings": {
+        "Music": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Garlond Gl-II To Athena": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Gay Car": {
+      "Settings": {
+        "Gamer Lights": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Gay'aitya": {
+      "Settings": {
+        "Choose your flag": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Gen Z Gaius": {
+      "Settings": {
+        "Toggles": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Gen Z Gaius (2)": {
+      "Settings": {
+        "Is it cringe?": 1
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "General Kenobi": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Genshin Impact-Xilonen": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Genshin Impact-Xilonen Ears&Tail": {
+      "Settings": {
+        "New Group": 0,
+        "Miqo'te (full jewelry)": 0,
+        "Miqo'te (no hoops)": 0,
+        "Miqo'te (no studs)": 0,
+        "Miqo'te (no jewelry)": 0,
+        "Au Ra (full jewelry)": 0,
+        "Au Ra (no hoops)": 0,
+        "Au Ra (no studs)": 0,
+        "Au Ra (no jewelry)": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Gigachad Ground": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "girlypop barreltender": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Gives You Teeth": {
+      "Settings": {
+        "Food": 3,
+        "Coffee Cup": 0,
+        "Drink Can": 0,
+        "Burger": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "God Rays": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Goomba Roomba BGM": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Gown of Eternal Darkness": {
+      "Settings": {
+        "YoRHa Type-51 Jacket of Scouting": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Gown of Eternal X for TBSE Echo 2.0 (Flat and Petite)": {
+      "Settings": {
+        "Chest Size": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Grand Impact Ver 2": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Grander Impact": {
+      "Settings": {},
+      "Priority": 2,
+      "Enabled": true
+    },
+    "Grind Rail (XIV) WAR": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Groanpose": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "HaGayyy": {
+      "Settings": {
+        "Toggle Sound": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Hatsune Miku Motif": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Healers Adjust Deathsound": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "HeavyRussianNoMusic": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "heeheehahahaha": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Height Slider Range Increase": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Hell Naw": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Hello There": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Here Comes The Boy on ShowLR": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "hey hey wave": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "HissFurious": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "hmm": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Honey b Mining": {
+      "Settings": {
+        "Music": 2
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Honkai Star Rail Music Overhaul (V1.3)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "HoS": {
+      "Settings": {
+        "Everything": 8191,
+        "Textures": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "HoT": {
+      "Settings": {
+        "Textures": 1,
+        "Everything": 127,
+        "Shoe option": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "How do you do, Fellow Adults": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "HSR Herta Space Station BGM on Solution 9 BGM": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Huh": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Hydaelyn's Maiden - a VFX mod for Black Mage": {
+      "Settings": {
+        "Astral Spells": 127,
+        "Umbral Spells": 1,
+        "Thunder Spells": 3,
+        "Polyglot and Elemental Guage Spells / Status VFX": 15,
+        "Caster Job Spells": 31,
+        "Abilites": 255,
+        "LImit Break III": 1,
+        "ICONS": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Hydaelyn's Maiden ALL ICONS": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Hydaelyn's Maiden status ICONS": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Hyperion over Knapsack": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "I fucking hate Death of The Heavens": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "I SUMMON LEYLINES": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "III [Hololive] - Houshou Marine & Kobo Kanaeru": {
+      "Settings": {
+        "Animations": 0,
+        "Music": 0,
+        "Ear Wiggles": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Imperator Bong": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Improved Vanilla Facepaints": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Impulse Anchor": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "In The Tells": {
+      "Settings": {
+        "OPTIONS": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Ink Dancer": {
+      "Settings": {
+        "VFX": 20
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Inn Room Theme to A Moment's Peace (MH Dos)": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Ishgardian Knight's Armor YAB buff -upscale-": {
+      "Settings": {
+        "Items": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Island Alkonost": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "It should've been me, not him! - Yu-Gi-Oh": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Its PIZZA Time": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Jellyfish eScape": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Jellyfish eScape (TOP)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Jerma Stabilizer": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Kaguya-aback lala edition": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Keemstar Rend": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "kekw laugh": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Kirby theme trumpet": {
+      "Settings": {
+        "VFX": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Kiwi - [Outfits]SimpleDec24": {
+      "Settings": {
+        "Default": 0,
+        "Bust Size": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "KK_BUS_V1_DT": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "KK_Starlight_Chocobo_V1.2": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Knuckles voice pack!": {
+      "Settings": {
+        "Emote Voice To Replace (Group 1)": 1,
+        "Battle Voice To Replace (Group 1)": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Kuro Suit": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "kuru kuru hammer combo": {
+      "Settings": {},
+      "Priority": 2,
+      "Enabled": true
+    },
+    "Kyubey Minion": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Leeroy Jenkins Chat Sounds": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Legend of Zelda treasure": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Let's beat him to death with Hammer Motif": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Lewd Calamari": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Lightning Returns - Salvation Fanfare": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Limbus Pictomancer Motifs": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Liquidd!": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Liturgy of the Taco Bell": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Live & Learn": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "loligod": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Louder Fry Egg": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Love and Deepspace-Abysm Sovereign": {
+      "Settings": {
+        "Default": 0,
+        "Color Scheme": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Love and Deepspace-Abysm Sovereign Tail": {
+      "Settings": {
+        "New Group": 0,
+        "Color Scheme": 1,
+        "Au Ra": 15,
+        "Miqo'te": 255
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Love and Deepspace-Hunter Uniform": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Love and Deepspace-Plush Collection": {
+      "Settings": {
+        "core": 0,
+        "Airplane": 0,
+        "Alien": 0,
+        "Apple": 0,
+        "Baby Seal": 0,
+        "Cat": 0,
+        "Chick": 0,
+        "Duck": 0,
+        "Eggplant": 0,
+        "Elephant": 0,
+        "Elk": 0,
+        "Frog": 0,
+        "Hearts": 0,
+        "Moon": 0,
+        "Pineapple": 0,
+        "Radish": 0,
+        "Stars": 0,
+        "Sugarcoated": 0,
+        "Unicorn": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Love Shot-DRK&GNB": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Lumbridge": {
+      "Settings": {
+        "Lumbridge": 3
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "MAAAAAAAAN I JUST WANNA BE A GIRAFFE": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Machinist you killed a child": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Machinist_SonicColorsAnnouncer": {
+      "Settings": {
+        "Skills": 65535
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Maestro V4 Anims": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Maestro V5": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Majora's Mask - Skullkid [Minion]": {
+      "Settings": {
+        "9S Automaton": 1
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Majora's Mask Moon Mount": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Majoras Mask [Minion]": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Male Roll Dance": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Malevolence is Sus": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Mandalorian": {
+      "Settings": {
+        "Install": 31
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Mario Jump [Mittens]": {
+      "Settings": {
+        "Sound": 0
+      },
+      "Priority": 3,
+      "Enabled": true
+    },
+    "Mario Jumps": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Maxwell [Coeurl] only Maxwell": {
+      "Settings": {
+        "Default Group": 0,
+        "Maxwell": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Medica III Floating": {
+      "Settings": {
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "mehwapyarra girly pop": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "MeowGreet1.1": {
+      "Settings": {
+        "Toggle": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Metal Pipe for DNC": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Metal Pipe for NIN": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Metal Pipe Nisi": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Metal Pipe Sounds for Crafters": {
+      "Settings": {
+        "Choose your fighter!": 31
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "MGS Alert Provoke": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Miku hits you with a pipe": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Miku Miku Apokalypsis": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Minecraft Diamond Sword (PLD RDM GNB NIN)": {
+      "Settings": {
+        "Models": 15
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Minecraft Sword and Shield": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Minion Mod Beady Eye to Gimme Bat 1.0": {
+      "Settings": {
+        "Glitch FX": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Miqo huh for all 1.1": {
+      "Settings": {
+        "Sound?": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Miqo'te Separates No Pouch": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Mods, [Iron Jaws] his skull thank you": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Money Krab V1.02": {
+      "Settings": {
+        "Money Krab Sounds": 1,
+        "Necessary Files": 0,
+        "Money Krab": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Moogle Shanty": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Morbinshroud": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "moshimoshi": {
+      "Settings": {
+        "Animation": 1
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Mount Music - Wii Sports - Title": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Mtn Buster Glare IV": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Mulan Mushu  I Live": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "mustard": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "MY TURN": {
+      "Settings": {
+        "Battle Voice To Replace (Group 1)": 2147483647,
+        "Battle Voice To Replace (Group 2)": 4294967295,
+        "Battle Voice To Replace (Group 3)": 2097151
+      },
+      "Priority": 5,
+      "Enabled": true
+    },
+    "MY TURN no mercy": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "nanomachines": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Never Gonna (Ball Dance)": {
+      "Settings": {
+        "Extra": 15
+      },
+      "Priority": 2,
+      "Enabled": true
+    },
+    "nicki minaj is the queen of rap": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "NicoNiiHop": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Nier Automata Style Ricochet v1_4_0": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "NIN Becomes PLD": {
+      "Settings": {
+        "Idle": 2,
+        "Movement": 1,
+        "Draw & Sheathe": 3,
+        "Weapons (Air Knives)": 0,
+        "Skills & Abilities": 16777215,
+        "Mudra": 0,
+        "Jutsu": 0,
+        "Limit Breaks": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "No.2 Type B Peets": {
+      "Settings": {
+        "Sizes": 0,
+        "Upscaled, Clean Textures": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Noctis Is Going the Distance": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Nokia Tune": {
+      "Settings": {
+        "Other": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "OCN's Y'all want a Girlypop Variety": {
+      "Settings": {
+        "wiggles": 0,
+        "music": 511
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Oh The Hue-Manatee": {
+      "Settings": {
+        "Color Choice": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Oh These.. (pose)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Ok": {
+      "Settings": {
+        "Ok": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "OK I PULL UP": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "OKAY I PULL UP": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Oof Fall Damage": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Opera! Space Opera!": {
+      "Settings": {
+        "Music": 0
+      },
+      "Priority": 2,
+      "Enabled": true
+    },
+    "Oppressor Girly Pop": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PA PA YA!": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Painting Teleport": {
+      "Settings": {
+        "Race": 0,
+        "defaults": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Paladin, Oath of the Ancients": {
+      "Settings": {
+        "Skills and Abilities": 1073741823,
+        "Confiteor": 0,
+        "Blade of Faith": 0,
+        "Blade of Truth": 0,
+        "Blade of Valor": 0,
+        "Passage of Arms": 0,
+        "Limit Break": 0,
+        "Aettir and Priwen": 0,
+        "HUD and UI, Part 1": 0,
+        "HUD and UI, Part 2": 0,
+        "Collection Support": 0,
+        "Pray Emote": 0,
+        "Necessary Files": 0,
+        "Hydaelyn Animation": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Pantheon's BGM replaces Landerwaffe's BGM": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Peek Around Corner (Updated)": {
+      "Settings": {
+        "Left Or Right?": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Pegasus Black&Pink": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PENTAGRAM REAL": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Pepsi Man (Ultimate)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Pepsiman [Pepsis]": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "pepsiman_vanu": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "perfect start": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Persona Avatar (Blue)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Persona Avatar (Red)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Pew [Dosis I, II y III]": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Piano Performance": {
+      "Settings": {
+        "Grand Piano": 15,
+        "VFX": 7,
+        "Additional Play VFX 1": 3,
+        "Additional Play VFX 2": 3
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Piano Player_Idle2_V2 [kai]": {
+      "Settings": {
+        "Animation on/off": 0,
+        "Piano Colour": 0,
+        "Stool Colour": 0,
+        "F Hrothgar Animation": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PictomancerBattleVoice": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PipeLily": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Pipes but dismantle": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "planetary explosion": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "PlushieHold": {
+      "Settings": {
+        "Default": 0,
+        "TouhouPlushies": 0,
+        "Anims": 3
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "PM ~ Katseye 'Debut' (TikTok Challenge)": {
+      "Settings": {
+        "Animation [ Cheer Jump ]": 0,
+        "Music [ BGM ]": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PM ~ TWICE 'Look At Me' (short)": {
+      "Settings": {
+        "Animation [ Harvest Dance ]": 0,
+        "Music [ BGM ]": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Pocket Sand": {
+      "Settings": {
+        "Pocket Sand": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Poem of Everyones Soul (louder)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Pokedex for SMN & SCH": {
+      "Settings": {
+        "Required files": 0,
+        "Screen options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Princess ride miqo working": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "punutiy girly pop": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Put your grasses on": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PvP to Arknights CC#1-12 BGM swap": {
+      "Settings": {
+        "BGM change": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Quieres": {
+      "Settings": {
+        "Version": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Rainbow Power Up!": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Ravel Keeper's Twin Guilltotines": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Red White Peloton": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "RedmageBattleVoice": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Regal Sphene": {
+      "Settings": {
+        "Toggles": 7
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Rescrunkled 7.0 Thancred": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Re_broil_III": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Rhul of Cool A Y'shtola Overhaul": {
+      "Settings": {
+        "Rhul of Cool": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Ride-on Mower": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Roads Kronii Traveled": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Robin HSR Songs for Radiant Finale": {
+      "Settings": {
+        "Radiant Finale (PvE)": 1,
+        "Final Fantasia (PvP)": 0,
+        "Battle Voice (Star Echo)": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Rotzalia for Citrus": {
+      "Settings": {
+        "Torso": 0,
+        "Extras": 7
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Ruby (RWBY)": {
+      "Settings": {
+        "Emote Voice To Replace (Group 1)": 0,
+        "Emote Voice To Replace (Group 2)": 0,
+        "Emote Voice To Replace (Group 3)": 0,
+        "Emote Voice To Replace (Group 4)": 0,
+        "Emote Voice To Replace (Group 5)": 0,
+        "Emote Voice To Replace (Group 6)": 0,
+        "Emote Voice To Replace (Group 7)": 0,
+        "Emote Voice To Replace (Group 8)": 0,
+        "Emote Voice To Replace (Group 9)": 0,
+        "Emote Voice To Replace (Group 10)": 0,
+        "Emote Voice To Replace (Group 11)": 0,
+        "Emote Voice To Replace (Group 12)": 0,
+        "Emote Voice To Replace (Group 13)": 0,
+        "Emote Voice To Replace (Group 14)": 0,
+        "Emote Voice To Replace (Group 15)": 0,
+        "Emote Voice To Replace (Group 16)": 0,
+        "Emote Voice To Replace (Group 17)": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "RULES OF NATURE SUSANO-O": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Ryne Unshrinkwrapped": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "S9 Dye Support patch v3.0": {
+      "Settings": {
+        "Basic Modpack furniture": 0,
+        "Decorative Modpack furniture": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "S9 Extras patch v3.0": {
+      "Settings": {
+        "Basic Modpack furniture": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "S9 Furniture Pack (basic) v3.0": {
+      "Settings": {
+        "Furnishing": 0,
+        "Tabletop": 0,
+        "Wall-mounted": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "S9 Furniture Pack (decorative) v3.0": {
+      "Settings": {
+        "Furnishing": 0,
+        "Tabletop": 0,
+        "Wall-mounted": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Sad Meow": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "SCH Dissipation Minecraft": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "ScholarBattleVoice": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Scottish Fold": {
+      "Settings": {
+        "Collar Options": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "scurry and scatter [expedient]": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "See Ya Elusive Players": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "sekiro_deflecting_for_ALL": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Shadow the Hedgehoglet": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Shadow Wizard Money Gang (allsaintscharm)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Shalamayne": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Sharlamayne": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "shrek wazowski": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "SimpSign": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Sis Puella Magica!": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Skater Movement [Kai] V1.0": {
+      "Settings": {
+        "Core Files": 0,
+        "Board Texture (VFX model & In game model)": 0,
+        "Wheel Colour (VFX model only)": 0,
+        "VFX Model Lighting/Hide Options": 0,
+        "Replace Endless Summer Glasses With Skateboard Model": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Slightly Better Alphinaud": {
+      "Settings": {
+        "Neccesary Files": 0,
+        "EW Outfit": 1,
+        "Alphinaud ShB Gloves": 0,
+        "Head/Face edits": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Slightly Better Ryne": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Slime Cushion": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Snap to Dust": {
+      "Settings": {
+        "Duration": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Social credit song": {
+      "Settings": {
+        "Version": 0
+      },
+      "Priority": 2,
+      "Enabled": true
+    },
+    "Solona's Naughty for Bimbo": {
+      "Settings": {
+        "New Group": 15
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Sorry Your Husband Died. (I killed him) [Dress]": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Sorry Your Queen Died. (I killed her) [Dress]": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Sovereign of Cool": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Space Jam Queen Eternal": {
+      "Settings": {},
+      "Priority": 3,
+      "Enabled": true
+    },
+    "Spirit Mage for Dancer": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Spooky Month": {
+      "Settings": {
+        "Dance": 0
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "STAHP Interrupt": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Star Prism - Improved": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Stayin' alive": {
+      "Settings": {
+        "Music": 0,
+        "Animation for lala": 0,
+        "Effects": 0
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Steezus Christ": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Stellar Explosion - Screenshake": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "stop fighting": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Stop right there criminal scum": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Stop Sign Slap": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Stormtrooper": {
+      "Settings": {
+        "Helmet [ Late Allagan Mask of Aiming ]": 0,
+        "Install [ Late Allagan Set of Aiming ]": 15
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Stormtrooper - E11 Blaster": {
+      "Settings": {
+        "Install": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Stupid fa-": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "SummonerBattleVoice": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Super Mario [Minion]": {
+      "Settings": {
+        "Wind-Up Grebuloff": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Super Shotgun": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Sweep_for_lala": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Sweet Honey x Nikki": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Tactical Nuke": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Takey My Money": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Talking Cat": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "TASTE THE RAINBOW DRIP MOTHERFUCKER": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Thats my purse! I dont know you!": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Thavnairian Wool Autumn Pack (Muse)": {
+      "Settings": {
+        "Enabled?": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "The Fisher's Throne": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "The Grinch - Cloud of Darkness": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "The Lightbearer": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "The lightbearer Otopop": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "The Missile Knows Where It Is": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "The Only Thing I Know for Real (Frontline)": {
+      "Settings": {
+        "Seal Rock - Fields of Glory": 0,
+        "Onsal Hakair": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "The Workshop Formerly Known As Purple": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "This Fffire by Franz Ferdinand Statice Edit": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Thomas the tank engine ( Mount )": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Throwing Flashbang": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Time to stop": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Toll of the Dead": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Tomestone_To_Nokia": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Toro Suit": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Toxic Lions Happy Patty Meme Shirt": {
+      "Settings": {
+        "Required": 0,
+        "Options": 0,
+        "Body Type": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Train Sprint": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "True Warrior Battle Bear 1.0": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Turbo Shitter 5000": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Twin Minions (Melanin Edit)": {
+      "Settings": {
+        "Items": 2
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Tyrannosaur Transformation": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Ufiti Donkey Kong Mount": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Ukelele de Chocobo": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Ultimate Bee's Knees": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Ultra Stamp (Dwarven Mythril Hammer)": {
+      "Settings": {
+        "Texture": 0,
+        "3D Model": 1,
+        "Material Funnies": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Unnecessarily Potent Basic Heals": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Valkyr for Bimbo+ & Citrus+": {
+      "Settings": {
+        "Meta": 0,
+        "Textures": 0,
+        "Size": 0,
+        "YAS": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Valleytender Pack": {
+      "Settings": {
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Vibe Sit Miqo'te Edit": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Villager Emote Sounds": {
+      "Settings": {
+        "Emotes": 15
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Vine Boom Aback": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Vino_Bike_V1": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Viper Energy Drink": {
+      "Settings": {
+        "Recolours": 1023
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Viper Swords on Hips": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "VPR Alt for GNB": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "waitwaitwait": {
+      "Settings": {
+        "Animation": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Wallace": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "We got him Congratulate": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "What is going on inside their head": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "WHAT THE FUCK IS A KILOMETER": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "What's that brudda": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "When the Final Boss is a Gen Z Reprimand": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "White Woman Jumpscare": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "WhitemageBattleVoice": {
+      "Settings": {},
+      "Priority": 2,
+      "Enabled": true
+    },
+    "Why are we still here": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Why Are You Running": {
+      "Settings": {
+        "Volume": 1
+      },
+      "Priority": 2,
+      "Enabled": true
+    },
+    "Wii Music Cheers": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "WInd Waker Battle voice": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Wind-up Cirno V1.05": {
+      "Settings": {
+        "Cirno Options": 7,
+        "Take on me": 7,
+        "Forkknife_dance": 7,
+        "Cirno Baka": 3,
+        "Cirno Orange Justice": 3
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Windmill": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "windowsxp (playdead)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Wonderland paladin": {
+      "Settings": {
+        "Shield of Light": 1,
+        "Lightbringer": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Working_C4": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "WoW Rewind": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Yak T'el Hrothgar Snooze": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Yippee Happy": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Yippee Hell's Egress": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Yippee Hell's Ingress": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Yippee Ingress": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Yippee Shift": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "you can't hurt me jack": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "You Died": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "You Spin Me Round": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Yugioh5Ds-YuseiGo": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Yuweyawatan Picto": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Zenos Rescue": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "zus hat": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[ Tomie ] LADS Asymmetrical Romance TBSE": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[ Tomie ] LADS Asymmetrical Romance TBSE X": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Aqua] Boombox (Hip HopEDM)": {
+      "Settings": {
+        "Song": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Axie] Beatzbunny": {
+      "Settings": {
+        "Stick colors/VFX off": 1,
+        "Music": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Axie] Breakneck": {
+      "Settings": {
+        "Music": 1
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "[Axie] Frolic": {
+      "Settings": {
+        "VFX": 1,
+        "Music": 1,
+        "Ears (for Lala/Elezen)": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Axie] Gwen-Step": {
+      "Settings": {
+        "Sound": 1,
+        "VFX": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Axie] Knee Slapper": {
+      "Settings": {
+        "Music": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Axie] Mine": {
+      "Settings": {
+        "Music": 1,
+        "VFX": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Axie] Moonlit Mystery": {
+      "Settings": {
+        "Music": 1,
+        "VFX": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Axie] Signature Shuffle": {
+      "Settings": {
+        "VFX": 1,
+        "Music": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Bacara] Galaxios Greatsword": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Bibo+][Tre5] Seraphism Gear": {
+      "Settings": {
+        "Hood Options": 0,
+        "Chest Options": 0,
+        "Chest Toggles": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Bliss][Outfit]Deadly Lullaby": {
+      "Settings": {
+        "Base Installs": 31,
+        "Colorset Options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[CROW] Infinity Scissors": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "[DDE] Nokia_minion": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "[Dia] Cirnium": {
+      "Settings": {
+        "Default": 0,
+        "Sound": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Elio] Live Concert Stage (2.0)": {
+      "Settings": {
+        "Base Files": 0,
+        "Rock Stage - Plush Cushion": 0,
+        "EDM Stage - Plush Cushion": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "[Elio] Live Concert Stage - Individuals (2.0)": {
+      "Settings": {
+        "Drumstick  - Wind-Up Airship": 1,
+        "Drumkit Model - Goobbue Sproutling": 1,
+        "Drumkit Color": 1,
+        "Microphone Stand - Wind-Up Cursor": 0,
+        "DJ Mixer Set - Wind-Up Leviathan": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Elk] Bury the Light to SDS Fenrir": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Feri] Sobriety Test": {
+      "Settings": {
+        "Sobriety Test": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[FOKC] Yugioh AST": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[FW] Hook's Claw": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Herta] - Its time to Umbral Soul!": {
+      "Settings": {
+        "Icon": 1,
+        "Sound": 1
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "[HS] Dreaming Weapon (Default)": {
+      "Settings": {
+        "Items": 3,
+        "Top Size": 0,
+        "Bottom Size": 0,
+        "Panties": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Hyperlab] Ego Decal (indigo star)": {
+      "Settings": {},
+      "Priority": 2,
+      "Enabled": true
+    },
+    "[Hyperlab] Elysian Transference": {
+      "Settings": {},
+      "Priority": 3,
+      "Enabled": true
+    },
+    "[Hyperlab] Elysium Everlasting": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "[IVCS2] Songstress Dressphere for TBSE": {
+      "Settings": {
+        "Required": 0,
+        "Top - Midlanders": 0,
+        "Top - Highlanders": 0,
+        "Skirt Size": 0,
+        "Boots Size": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[IVCS] Lofi Headbang From Fortnite": {
+      "Settings": {
+        "Extra Options": 1,
+        "Music": 1
+      },
+      "Priority": 2,
+      "Enabled": true
+    },
+    "[IVCS] To The Beat From Fortnite": {
+      "Settings": {
+        "Additions": 7,
+        "Music": 31
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Keysley] Hatsukoi♡Patissiere": {
+      "Settings": {
+        ".": 1,
+        "options": 2
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Keysley] How About Paipai Mask": {
+      "Settings": {
+        "Music": 1,
+        "Options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Keysley] III 宝鐘マリン&こぼ・かなえる": {
+      "Settings": {
+        ".": 1,
+        "ears": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Keysley] SHIAWASE√KOYORINIUM シアワセ√コヨリニウム": {
+      "Settings": {
+        "music": 1,
+        "options": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Kyo] Ryne's Oracle Attire": {
+      "Settings": {
+        "Oracle": 0,
+        "Oracle Top": 30,
+        "Oracle Pantalettes": 0,
+        "Oracle Leggings": 7
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Mittens] You Farted [Point]": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Navarre] Rilakkuma Plushie": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "[OCN] Angelic Halo": {
+      "Settings": {
+        "Halo": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[OCN] Disc pizza spinner": {
+      "Settings": {
+        "Races": 0,
+        "Music": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[OCN] Drop the bass": {
+      "Settings": {
+        "size": 0,
+        "music": 1,
+        "elezen/lala earfix": 1
+      },
+      "Priority": 3,
+      "Enabled": true
+    },
+    "[OCN] Gun Maracas DT": {
+      "Settings": {
+        "wiggles": 1,
+        "VFX size": 2,
+        "Music": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[OCN] I'm Out DT": {
+      "Settings": {
+        "Wiggles": 0,
+        "Music": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[OCN] Portable  Party Floor": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[OCN] Y'all want a Girlypop + edit": {
+      "Settings": {
+        "wiggles": 0,
+        "music": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Orbitalcatnip] Mario Death": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[PA] Pachie's Electric Guitar Compilation [vDT1.0.1]": {
+      "Settings": {
+        "A - Video Game Favorites": 2,
+        "B - Anime Favorites": 3,
+        "C - Movie & Television Favorites": 14,
+        "D - Song Favorites": 50,
+        "E - Meme Favorites": 12,
+        "F - It would be criminal not to include these songs.": 49,
+        "Guitar Design  (Use /hum with bgm turned on!)": 0,
+        "VFX": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[pilin] Elegant Gothic Amaurotine": {
+      "Settings": {
+        "Mask": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[RH] Shut up bitch": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "[RH] Warrior of Fartness": {
+      "Settings": {
+        "Beans, Beans, Good for your heart the more you eat....": 0,
+        "Skunk'n Heimer's \"Special mix\"": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[RR] BEN-edicition": {
+      "Settings": {
+        "sound": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[RR] Best Pillow Ever!!!": {
+      "Settings": {
+        "Base Files": 0,
+        "Pillow Casing": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[SAX][DT]WAR VFX Trial Ver": {
+      "Settings": {
+        "Combo=基础连击": 3,
+        "Inner Release bro=原初的解放相关": 15,
+        "Loop VFX=持续特效": 3,
+        "Limit Break=极限技": 0,
+        "Move&Idle&Draw Weapon=行走 站姿 拔刀": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[SweetMate] Super Idol BUT ITS THE CHINESE VERSION": {
+      "Settings": {
+        "Music": 1
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "[Syla] Brainrot 2.0": {
+      "Settings": {
+        "Wiggles": 1,
+        "Music": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Val] Duo": {
+      "Settings": {
+        "Do your streak": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[VFX][Library Of Ruina]Boundary of Death to Zantetsuken": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[VFX][Library Of Ruina]Crescendo to RPR LB3 The End": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "[VFX][Limbus Company]Magic Bullet to Blast Charge": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[VH] AdjustaSign - Memes": {
+      "Settings": {
+        "Textures": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[°c°] Fran - Hair for all Ladies and Bunboys": {
+      "Settings": {
+        "• Races": 0,
+        "• Miqo'te": 2,
+        "• AuRa": 5,
+        "• Textures": 0,
+        "• Opacity": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[星穹铁道] 白露": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[碧蓝航线] 罗恩": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[鈴] 月流 MoonFlow": {
+      "Settings": {
+        "✦ Face 1 & 101": 1,
+        "✦ Face 3 & 103": 1,
+        "✦ Face 4 & 104": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "♡ 18 dollar recolor": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "✧Dramaturgy": {
+      "Settings": {
+        "-dress-": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "✧Rotten Eclair's Apple of Eden for Rue+ Small": {
+      "Settings": {
+        "-required files": 1,
+        "-upscale": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "幽零舞池替换第九方案主城": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    }
+  },
+  "Inheritance": []
+}
