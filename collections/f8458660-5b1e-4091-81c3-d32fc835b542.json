@@ -39,12 +39,22 @@
       "Priority": 0,
       "Enabled": false
     },
+    "5- String Bass": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
     "7.0 Thancred Lip Fix": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
     },
     "A Beautiful Day x Nikki": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "A REAL Flamberge for DRK": {
       "Settings": {},
       "Priority": 1,
       "Enabled": true
@@ -79,6 +89,13 @@
     "AAC Arcadion Pokemon Gym Leader Metal": {
       "Settings": {
         "Arcadion": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Abduction M&F [UFO Mount]": {
+      "Settings": {
+        "Replace for": 3
       },
       "Priority": 0,
       "Enabled": true
@@ -216,6 +233,21 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Arlecchino": {
+      "Settings": {
+        "Texture": 0,
+        "Everything": 63
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Arlecchino - Lithe": {
+      "Settings": {
+        "On": 3
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
     "Asbel Battle Voice": {
       "Settings": {
         "Battle Voice To Replace (Group 1)": 2147483647,
@@ -235,6 +267,11 @@
     "Au Ra F Play Dead for Miqo F": {
       "Settings": {},
       "Priority": 1,
+      "Enabled": true
+    },
+    "Augmented High Steel Tachi": {
+      "Settings": {},
+      "Priority": 0,
       "Enabled": true
     },
     "Automatons from Helldivers2": {
@@ -265,6 +302,13 @@
     "Ayaya-wow lala edition": {
       "Settings": {},
       "Priority": 1,
+      "Enabled": true
+    },
+    "AymericPreg": {
+      "Settings": {
+        "e9086_top_v0": 1
+      },
+      "Priority": 0,
       "Enabled": true
     },
     "ba'al buster": {
@@ -303,7 +347,17 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Beach Ball": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Bee my MEOW": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "BEEG sword": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -361,6 +415,11 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Black Mage complete skill replacement": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
     "BlackmageBattleVoice": {
       "Settings": {},
       "Priority": 2,
@@ -395,6 +454,16 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "Blue Abyssos Guillotine": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Blue Abyssos Guillotine (2)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
     },
     "Bonk Hammer": {
       "Settings": {},
@@ -554,8 +623,23 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Chicken Revenge Squad": {
+      "Settings": {
+        "Emote": 3,
+        "Minion": 3
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
     "chiikawa minion": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Chinese Trident Spear for DRG and RPR": {
+      "Settings": {
+        "Selection": 0
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -588,6 +672,13 @@
     },
     "Chronopolis 9": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Clematis": {
+      "Settings": {
+        "Colorsets": 0
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -627,6 +718,11 @@
       "Priority": 2,
       "Enabled": true
     },
+    "Corrupted Ashbringer": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Craftsman's Apron (Muse)": {
       "Settings": {},
       "Priority": 0,
@@ -659,6 +755,11 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Cursor Nouliths": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "D'oh I Missed": {
       "Settings": {},
       "Priority": 0,
@@ -679,6 +780,11 @@
       "Priority": 0,
       "Enabled": true
     },
+    "DAMN!!!": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Darkest Dance": {
       "Settings": {
         "Options": 3,
@@ -689,6 +795,11 @@
       "Enabled": true
     },
     "Darude Bardstorm": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Deathbringer": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -759,6 +870,16 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": false
+    },
+    "Dragon Quest Toughie mod": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Dream Smasher Rex FR": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
     },
     "DRG Becomes GNB": {
       "Settings": {
@@ -886,6 +1007,23 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Elden Ring Lordsworn Greatsword for DRK": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Elden Ring Stormhawk Axes for VPR": {
+      "Settings": {
+        "Items": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Elden Ring Winged Scythe for RPR": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Eldenring Battle Axe for PLD and WAR": {
       "Settings": {
         "Items": 3
@@ -938,6 +1076,11 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Everseeker_Coat_TGT_1.02": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Excaligator": {
       "Settings": {
         "Size": 2
@@ -947,6 +1090,14 @@
     },
     "Executioner mixer": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Exorcist": {
+      "Settings": {
+        "Textures": 1,
+        "Everything": 255
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -960,6 +1111,13 @@
     },
     "Explosive Snap": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "FannyDannyPregnant": {
+      "Settings": {
+        "Cryptlurker's Robe of Casting": 1
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -991,6 +1149,13 @@
       },
       "Priority": 0,
       "Enabled": false
+    },
+    "Fengtian Ji for DRG and RPR": {
+      "Settings": {
+        "Selection": 3
+      },
+      "Priority": 0,
+      "Enabled": true
     },
     "Festive Chicken Zenos": {
       "Settings": {
@@ -1066,12 +1231,25 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Flow state Eyes": {
+      "Settings": {
+        "Symmetrical Eyes And Left Eye": 1,
+        "Right Eye": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Footstep sound increase": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
     },
     "Forgiven Rapture": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Fourchepreg": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -1214,6 +1392,13 @@
       "Priority": 2,
       "Enabled": true
     },
+    "greene - ruffled jumper dress": {
+      "Settings": {
+        "Model": 3
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
     "Grind Rail (XIV) WAR": {
       "Settings": {},
       "Priority": 0,
@@ -1232,6 +1417,11 @@
       "Enabled": true
     },
     "Hatsune Miku Motif": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Have A Duck": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -1316,6 +1506,11 @@
       "Enabled": true
     },
     "How do you do, Fellow Adults": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "hpreg": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -1436,6 +1631,14 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Itto": {
+      "Settings": {
+        "Textures": 1,
+        "Everything": 255
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Jellyfish eScape": {
       "Settings": {},
       "Priority": 0,
@@ -1486,6 +1689,16 @@
       "Priority": 0,
       "Enabled": true
     },
+    "KK_R35_V1": {
+      "Settings": {
+        "Basemod": 0,
+        "Headlight": 1,
+        "Engine Sound Replace (Might need restart when turn on)": 1,
+        "Song Replace (Might need restart when turn on)": 1
+      },
+      "Priority": 3,
+      "Enabled": true
+    },
     "KK_Starlight_Chocobo_V1.2": {
       "Settings": {},
       "Priority": 0,
@@ -1495,6 +1708,13 @@
       "Settings": {
         "Emote Voice To Replace (Group 1)": 1,
         "Battle Voice To Replace (Group 1)": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "KOFFING": {
+      "Settings": {
+        "SHINY?": 0
       },
       "Priority": 0,
       "Enabled": true
@@ -1684,6 +1904,11 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Maleficus Twinfangs": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
     "Malevolence is Sus": {
       "Settings": {},
       "Priority": 0,
@@ -1839,6 +2064,28 @@
       "Priority": 1,
       "Enabled": true
     },
+    "Mpreg Hancock": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "mpreg urianger not clickbait": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "MpregThordan": {
+      "Settings": {
+        "d1019e0001_top_v0": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "mprexarch": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Mtn Buster Glare IV": {
       "Settings": {},
       "Priority": 0,
@@ -1853,6 +2100,11 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": false
+    },
+    "MUSTARD Living Shadow": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
     },
     "MY TURN": {
       "Settings": {
@@ -2098,6 +2350,11 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Pink Deathbringer Ultima": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
     "PipeLily": {
       "Settings": {},
       "Priority": 0,
@@ -2158,8 +2415,99 @@
       "Priority": 0,
       "Enabled": true
     },
+    "pregmet": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Princess ride miqo working": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PSO2 Pillow Weapons (BLM, SMN, SCH, RDM)": {
+      "Settings": {
+        "Black Mage": 0,
+        "Black Mage -Design": 0,
+        "Summoner and Scholar": 0,
+        "Summoner -Design": 0,
+        "Scholar -Design": 0,
+        "Red Mage": 0,
+        "Red Mage -Design": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PSO2 Pillow Weapons (DRG, RPR, MNK, SAM)": {
+      "Settings": {
+        "Dragoon": 0,
+        "Dragoon -Design": 0,
+        "Reaper": 0,
+        "Reaper -Mesh": 0,
+        "Reaper -Design": 0,
+        "Monk": 0,
+        "Monk -Design": 0,
+        "Samurai": 0,
+        "Samurai -Design": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PSO2 Pillow Weapons (NIN, BRD, MCH, DNC)": {
+      "Settings": {
+        "Ninja": 0,
+        "Ninja -Design": 0,
+        "Bard": 0,
+        "Bard -Mesh": 0,
+        "Bard -Design": 0,
+        "Machinist": 0,
+        "Machinist -Design": 0,
+        "Dancer": 0,
+        "Dancer -Design": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PSO2 Pillow Weapons (PLD, WAR, DRK, GNB)": {
+      "Settings": {
+        "Paladin -Sword": 0,
+        "Paladin -Sword Design": 0,
+        "Paladin -Shield": 0,
+        "Paladin -Shield Design": 0,
+        "Warrior": 0,
+        "Warrior -Mesh": 0,
+        "Warrior -Design": 0,
+        "Dark Knight": 0,
+        "Dark Knight -Design": 0,
+        "Gunbreaker": 0,
+        "Gunbreaker -Design": 0
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "PSO2 Pillow Weapons (VPR, PCT)": {
+      "Settings": {
+        "Viper": 0,
+        "Viper -Design": 0,
+        "Pictomancer (Paint Brush)": 0,
+        "Pictomancer (Paint Brush) -Designs": 0,
+        "Pictomancer (Paint Pad)": 0,
+        "Pictomancer (Paint Pad) -Designs": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PSO2 Pillow Weapons (WHM, AST, SGE, BLU)": {
+      "Settings": {
+        "White Mage": 0,
+        "White Mage -Design": 0,
+        "Astrologian": 0,
+        "Astrologian -Design": 0,
+        "Sage": 0,
+        "Sage -Design": 0,
+        "Blue Mage": 0,
+        "Blue Mage -Design": 0
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -2193,6 +2541,11 @@
       "Enabled": true
     },
     "Ravel Keeper's Twin Guilltotines": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "raykie 2 Phut Hon Loop (All tall Harvest Dance) IVCS V1_0_2": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -2236,6 +2589,14 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Risensong Doublet": {
+      "Settings": {
+        "Model and Materials": 0,
+        "Toggles": 7
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Roads Kronii Traveled": {
       "Settings": {},
       "Priority": 1,
@@ -2254,6 +2615,14 @@
       "Settings": {
         "Torso": 0,
         "Extras": 7
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Rozen": {
+      "Settings": {
+        "Texture": 1,
+        "Everything": 255
       },
       "Priority": 0,
       "Enabled": true
@@ -2334,6 +2703,14 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Schizo Isagi Yoichi Animated Eye Contact": {
+      "Settings": {
+        "Contact Lense Left": 0,
+        "Contact Lense Right": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "ScholarBattleVoice": {
       "Settings": {},
       "Priority": 0,
@@ -2381,13 +2758,31 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Shirt Too Big": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "shrek wazowski": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Sieglinde for WAR": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
     },
     "SimpSign": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Siren's Song Mashup": {
+      "Settings": {
+        "Tbse": 0,
+        "Hunk": 0
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -2434,6 +2829,13 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Snap to Dust (2)": {
+      "Settings": {
+        "Snap Style": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
     "Social credit song": {
       "Settings": {
         "Version": 0
@@ -2471,6 +2873,14 @@
       "Settings": {},
       "Priority": 3,
       "Enabled": true
+    },
+    "Spinning Scythe - Grim Reaper": {
+      "Settings": {
+        "Default Group": 0,
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "Spirit Mage for Dancer": {
       "Settings": {},
@@ -2513,6 +2923,13 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Stelle , Female Trailblazer - Honkai Impact Star Rail - Bibo+": {
+      "Settings": {
+        "Install :": 15
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "stop fighting": {
       "Settings": {},
       "Priority": 0,
@@ -2547,6 +2964,11 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "Summer Glyphic Cloak": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
     },
     "SummonerBattleVoice": {
       "Settings": {},
@@ -2594,6 +3016,16 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "Tenguto - Simplified": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "That Wine Guy": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
     },
     "Thats my purse! I dont know you!": {
       "Settings": {},
@@ -2766,6 +3198,23 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Varo - Magitek Power Armour": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Varo - Magitek Power Helmet": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Vera - Sorowfful rose": {
+      "Settings": {
+        "Everything": 62
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Vibe Sit Miqo'te Edit": {
       "Settings": {},
       "Priority": 0,
@@ -2814,6 +3263,14 @@
     },
     "Wallace": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Warg Jacket of Fending&Maiming For TBSE": {
+      "Settings": {
+        "New Group": 0,
+        "Toggles": 3
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -2913,6 +3370,14 @@
       "Priority": 0,
       "Enabled": false
     },
+    "Wriothesley": {
+      "Settings": {
+        "Texture": 0,
+        "Everything": 127
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
     "Yak T'el Hrothgar Snooze": {
       "Settings": {},
       "Priority": 0,
@@ -2963,8 +3428,25 @@
       "Priority": 0,
       "Enabled": true
     },
+    "yuweyawata jeuno dress": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
     "Yuweyawatan Picto": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Zanshinge": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Zea's Rapier and Lantern": {
+      "Settings": {
+        "Merges": 0
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -2973,8 +3455,28 @@
       "Priority": 0,
       "Enabled": false
     },
+    "zpreg": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "zus hat": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Zwill Crossblades - No Crescents": {
+      "Settings": {
+        "Items": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[ LUCILIAS ] Nihil (Muse)": {
+      "Settings": {
+        "Default": 3,
+        "Cape": 3
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -2987,6 +3489,13 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "[A.N] Athena's Handmaid": {
+      "Settings": {
+        "Mask": 1
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "[Aqua] Boombox (Hip HopEDM)": {
       "Settings": {
@@ -3098,6 +3607,30 @@
       "Priority": 0,
       "Enabled": true
     },
+    "[DMC]Full patch of Vergil[SAM]v1.75": {
+      "Settings": {
+        "Base Package=基础包": 0,
+        "JobHud=职业量谱": 1,
+        "Single-target combo=单体目标战技": 127,
+        "AOE combo=范围攻击战技": 15,
+        "Laijutsu related=居合术相关": 127,
+        "Hissatsu ability=必杀剑能力": 255,
+        "Other ability=其他能力技": 127,
+        "Screenquake of Shoha/照破屏幕震动": 1,
+        "PVP related=PVP相关": 15,
+        "PVP LB=Judgement cut end": 5,
+        "LimitBreak III=极限技III": 1,
+        "Emotes=情感动作": 1,
+        "Multihit Adaptation=多段适配": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Dragoness] Joyful Freedom": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "[Elio] Live Concert Stage (2.0)": {
       "Settings": {
         "Base Files": 0,
@@ -3121,6 +3654,14 @@
     "[Elk] Bury the Light to SDS Fenrir": {
       "Settings": {},
       "Priority": 0,
+      "Enabled": true
+    },
+    "[Feri] Rollin": {
+      "Settings": {
+        "Motion": 1,
+        "BGM": 2
+      },
+      "Priority": 4,
       "Enabled": true
     },
     "[Feri] Sobriety Test": {
@@ -3252,6 +3793,11 @@
       "Priority": 0,
       "Enabled": false
     },
+    "[n] Red Light Yukata - Long": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "[OCN] Angelic Halo": {
       "Settings": {
         "Halo": 0
@@ -3371,6 +3917,16 @@
       "Priority": 0,
       "Enabled": true
     },
+    "[SSS]Derezzed - Tron Legacy Mount Music Mod": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "[SSS]Derezzed - Tron Legacy Mount Music Mod (2)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
     "[SweetMate] Super Idol BUT ITS THE CHINESE VERSION": {
       "Settings": {
         "Music": 1
@@ -3386,6 +3942,15 @@
       "Priority": 0,
       "Enabled": true
     },
+    "[TRPC] Mooncake_Minion": {
+      "Settings": {
+        "New Group": 0,
+        "Options:": 0,
+        "Textures:": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "[Val] Duo": {
       "Settings": {
         "Do your streak": 0
@@ -3395,7 +3960,7 @@
     },
     "[VFX][Library Of Ruina]Boundary of Death to Zantetsuken": {
       "Settings": {},
-      "Priority": 0,
+      "Priority": 2,
       "Enabled": true
     },
     "[VFX][Library Of Ruina]Crescendo to RPR LB3 The End": {
@@ -3414,6 +3979,13 @@
       },
       "Priority": 0,
       "Enabled": true
+    },
+    "[yue] lilith's servant": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "[°c°] Fran - Hair for all Ladies and Bunboys": {
       "Settings": {
@@ -3473,6 +4045,13 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "新年快乐-红包树+烟花筒": {
+      "Settings": {
+        "Default": 0
+      },
+      "Priority": 0,
+      "Enabled": false
     }
   },
   "Inheritance": []
