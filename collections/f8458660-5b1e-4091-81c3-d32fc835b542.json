@@ -3126,7 +3126,7 @@
     "Train Sprint": {
       "Settings": {},
       "Priority": 1,
-      "Enabled": true
+      "Enabled": false
     },
     "True Warrior Battle Bear 1.0": {
       "Settings": {},
@@ -3659,7 +3659,7 @@
     "[Feri] Rollin": {
       "Settings": {
         "Motion": 1,
-        "BGM": 2
+        "BGM": 6
       },
       "Priority": 4,
       "Enabled": true
