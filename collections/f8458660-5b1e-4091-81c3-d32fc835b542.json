@@ -1237,7 +1237,7 @@
         "Right Eye": 0
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "Footstep sound increase": {
       "Settings": {},
