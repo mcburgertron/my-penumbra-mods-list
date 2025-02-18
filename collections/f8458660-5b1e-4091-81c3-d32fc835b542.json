@@ -2582,7 +2582,7 @@
         "Rhul of Cool": 3
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "Ride-on Mower": {
       "Settings": {},
@@ -3475,7 +3475,7 @@
     "[ LUCILIAS ] Nihil (Muse)": {
       "Settings": {
         "Default": 3,
-        "Cape": 3
+        "Cape": 0
       },
       "Priority": 0,
       "Enabled": true
