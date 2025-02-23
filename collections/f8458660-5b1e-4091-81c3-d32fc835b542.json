@@ -753,7 +753,7 @@
     "Cursed F Miqo Walk": {
       "Settings": {},
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "Cursor Nouliths": {
       "Settings": {},
@@ -1421,10 +1421,15 @@
       "Priority": 0,
       "Enabled": true
     },
-    "Have A Duck": {
+    "Have a Blahaj": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "Have A Duck": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
     },
     "Healers Adjust Deathsound": {
       "Settings": {},
@@ -2265,7 +2270,7 @@
         "Necessary Files": 0,
         "Hydaelyn Animation": 0
       },
-      "Priority": 0,
+      "Priority": 1,
       "Enabled": true
     },
     "Pantheon's BGM replaces Landerwaffe's BGM": {
@@ -2582,7 +2587,7 @@
         "Rhul of Cool": 3
       },
       "Priority": 0,
-      "Enabled": false
+      "Enabled": true
     },
     "Ride-on Mower": {
       "Settings": {},
@@ -2735,7 +2740,7 @@
     },
     "sekiro_deflecting_for_ALL": {
       "Settings": {},
-      "Priority": 1,
+      "Priority": 2,
       "Enabled": true
     },
     "Shadow the Hedgehoglet": {
@@ -3747,7 +3752,7 @@
         "options": 2
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "[Keysley] How About Paipai Mask": {
       "Settings": {

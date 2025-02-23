@@ -1,6 +1,6 @@
 ﻿{
   "Version": 9,
-  "LastSeenVersion": 42,
+  "LastSeenVersion": 43,
   "DebugSeparateWindow": false,
   "TutorialStep": 29,
   "EnableResourceLogging": false,
@@ -11,10 +11,10 @@
   "ResourceWatcherResourceCategories": 16383,
   "ResourceWatcherRecordTypes": 15,
   "CollectionPanel": 0,
-  "SelectedTab": 1,
-  "ChangedItemFilter": 114687,
+  "SelectedTab": 4,
+  "ChangedItemFilter": 32768,
   "FixMainWindow": false,
-  "LastModPath": "Love and Deepspace-Abysm Sovereign Tail",
+  "LastModPath": "Have A Duck",
   "AdvancedEditingOpen": false,
   "ForceRedrawOnFileChange": false
 }
