@@ -39,6 +39,13 @@
       "Priority": 0,
       "Enabled": false
     },
+    "(ph) Original Me over Radiant Finale": {
+      "Settings": {
+        "Original Me Replacement": 1
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
     "5- String Bass": {
       "Settings": {},
       "Priority": 1,
@@ -52,6 +59,13 @@
     "A Beautiful Day x Nikki": {
       "Settings": {},
       "Priority": 1,
+      "Enabled": true
+    },
+    "A Fair and Just Ruler": {
+      "Settings": {
+        "Items": 1
+      },
+      "Priority": 0,
       "Enabled": true
     },
     "A REAL Flamberge for DRK": {
@@ -109,6 +123,20 @@
       "Priority": 0,
       "Enabled": false
     },
+    "academia": {
+      "Settings": {
+        "all": 7
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "academia(dt version)": {
+      "Settings": {
+        "all": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Activating Combat Mode on QTE": {
       "Settings": {
         "Activating Combat Mode": 1,
@@ -134,8 +162,28 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Adeptus ranger Rifle": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Advent of BIRD UP BASTION": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Aegis Embroidery(dt version)": {
+      "Settings": {
+        "tex": 0,
+        "base": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "aeromancer(dt update)": {
+      "Settings": {
+        "top": 0
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -145,7 +193,110 @@
         "Sound": 0
       },
       "Priority": 0,
+      "Enabled": false
+    },
+    "Air Horn Provoke": {
+      "Settings": {
+        "Sound Options": 0
+      },
+      "Priority": 0,
       "Enabled": true
+    },
+    "Air Jordan 1": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Air Jordan 5": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Air Jordans": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Alice Madness Returns-Flesh Maiden": {
+      "Settings": {
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Alice Madness Returns-Hattres": {
+      "Settings": {
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Alice Madness Returns-Hysteria": {
+      "Settings": {
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Alice Madness Returns-Late but Lucky": {
+      "Settings": {
+        "New Group": 0,
+        "Dress": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Alice Madness Returns-London": {
+      "Settings": {
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Alice Madness Returns-Misstitched": {
+      "Settings": {
+        "New Group": 0,
+        "Gloves": 0,
+        "Doll": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Alice Madness Returns-Royalsuit": {
+      "Settings": {
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Alice Madness Returns-Silkmaiden": {
+      "Settings": {
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Alice Madness Returns-Siren": {
+      "Settings": {
+        "New Group": 0,
+        "Model": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Alice Madness Returns-Steam Dress": {
+      "Settings": {
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Alice Madness Returns-Wonderland": {
+      "Settings": {
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "All Saints' Nuke": {
       "Settings": {},
@@ -156,6 +307,13 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "Ame no Uzume(dt update)": {
+      "Settings": {
+        "all": 29
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "American Magic": {
       "Settings": {
@@ -175,6 +333,29 @@
     "Among Us - Ninja Rabbit": {
       "Settings": {
         "Among Us - Ninja Rabbit": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "amy sorel(for dt version)": {
+      "Settings": {
+        "base": 0,
+        "dress option": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "amy sorel(for ed version)": {
+      "Settings": {
+        "base": 0,
+        "dress option": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "anahita(update)": {
+      "Settings": {
+        "Default": 3
       },
       "Priority": 0,
       "Enabled": true
@@ -244,6 +425,13 @@
     "Arlecchino - Lithe": {
       "Settings": {
         "On": 3
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "artist(dt update)": {
+      "Settings": {
+        "gear": 0
       },
       "Priority": 0,
       "Enabled": false
@@ -352,6 +540,13 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Beast's Blade For All Tanks": {
+      "Settings": {
+        "Selection": 7
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Bee my MEOW": {
       "Settings": {},
       "Priority": 0,
@@ -366,6 +561,11 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "Bepis": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
     },
     "Bestest Waymarks": {
       "Settings": {},
@@ -411,6 +611,21 @@
       "Enabled": true
     },
     "Bing chilling thumb up": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Black & White Ultimate Amazing Edenmorn Sickle": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Black & White Ultimate Edenmorn Gunblade": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Black & White Ultimate Edenmorn Pendulum": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -465,7 +680,25 @@
       "Priority": 0,
       "Enabled": false
     },
+    "blue lantern's light": {
+      "Settings": {
+        "Default": 0,
+        "top options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Blue Oni": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
     "Bonk Hammer": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Boring Battle - PLD": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -488,6 +721,20 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Botanist Logging Sound Replacer": {
+      "Settings": {
+        "Logging (Normal Hit)": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Bouquet Carnation(dt version)": {
+      "Settings": {
+        "all": 7
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Brainrot Shower": {
       "Settings": {},
       "Priority": 0,
@@ -498,6 +745,13 @@
       "Priority": 0,
       "Enabled": false
     },
+    "Bridemaid mashup": {
+      "Settings": {
+        "replace bridemaid dress": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Bring Mug Back": {
       "Settings": {
         "Core": 0,
@@ -505,6 +759,16 @@
       },
       "Priority": 0,
       "Enabled": true
+    },
+    "Bring the Red chaos!": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Bring Ultima thule!": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
     },
     "Bubblegum": {
       "Settings": {
@@ -542,6 +806,11 @@
       },
       "Priority": 0,
       "Enabled": true
+    },
+    "Carmine Feather": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
     },
     "Cartridge Screenshake": {
       "Settings": {},
@@ -595,6 +864,13 @@
       "Priority": 0,
       "Enabled": true
     },
+    "chain break(dt)": {
+      "Settings": {
+        "all": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Chain Leash VFX": {
       "Settings": {
         "Required": 0,
@@ -640,6 +916,11 @@
       "Settings": {
         "Selection": 0
       },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Chipi Chipi": {
+      "Settings": {},
       "Priority": 0,
       "Enabled": true
     },
@@ -718,6 +999,13 @@
       "Priority": 2,
       "Enabled": true
     },
+    "Compound 2P Sword & Compound Foci": {
+      "Settings": {
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Corrupted Ashbringer": {
       "Settings": {},
       "Priority": 0,
@@ -727,6 +1015,13 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "Crepuscular Soulbloom(materials update)": {
+      "Settings": {
+        "all": 15
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "CrouchPeekOverObject": {
       "Settings": {},
@@ -759,6 +1054,31 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "Cutesy Goth(dt version)": {
+      "Settings": {},
+      "Priority": 1,
+      "Enabled": true
+    },
+    "cyber kitty": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Cyberblade Samurai": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Czern": {
+      "Settings": {
+        "base": 0,
+        "top options": 0
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "D'oh I Missed": {
       "Settings": {},
@@ -804,10 +1124,22 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Deity of Winter Zai(dt version)": {
+      "Settings": {
+        "all": 59
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Delete Hrothgar": {
       "Settings": {},
       "Priority": 2,
       "Enabled": false
+    },
+    "Dia Animation With Aero III Spinny": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
     },
     "DiamondLongsword": {
       "Settings": {},
@@ -836,6 +1168,30 @@
     },
     "Discord Notification Point": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Doa Alluring Mandarin (dt update)": {
+      "Settings": {
+        "衣服": 0,
+        "鞋子": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Doa Alluring Mandarin short(dt update)": {
+      "Settings": {
+        "top": 5,
+        "shoes": 4
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Doa XVV Cheongsam(dt update)": {
+      "Settings": {
+        "Cheongsam": 0,
+        "sho": 0
+      },
       "Priority": 0,
       "Enabled": false
     },
@@ -966,6 +1322,14 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Ecliptic Meander(materials update)": {
+      "Settings": {
+        "base": 0,
+        "gear": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Edengrace Collar Fix": {
       "Settings": {},
       "Priority": 0,
@@ -1069,6 +1433,45 @@
       "Priority": 0,
       "Enabled": true
     },
+    "eternity": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Eternity Scrappe(DT)": {
+      "Settings": {
+        "base": 0,
+        "top options": 0,
+        "stocking options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Eternity Scrapper(ED)": {
+      "Settings": {
+        "base": 0,
+        "top options": 0,
+        "stocking options": 0,
+        "acc options": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "eternity_(dt version)": {
+      "Settings": {
+        "topp": 0,
+        "dwnn": 1,
+        "shoee": 1,
+        "wrss": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Eus transform to Seraph": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Everkeep Solitary Confinement": {
       "Settings": {
         "Everkeep Solitary Confinement": 0
@@ -1080,6 +1483,11 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "Evil maid": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
     },
     "Excaligator": {
       "Settings": {
@@ -1119,6 +1527,18 @@
         "Cryptlurker's Robe of Casting": 1
       },
       "Priority": 0,
+      "Enabled": true
+    },
+    "Fantasy Sword for All Tanks": {
+      "Settings": {
+        "Selection": 5
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "fartpneuma": {
+      "Settings": {},
+      "Priority": 1,
       "Enabled": true
     },
     "FATE Failed Spongebob Sound": {
@@ -1206,6 +1626,11 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Flame Alchemist Snap": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Flamestrider": {
       "Settings": {
         "Replacements": 3,
@@ -1221,6 +1646,22 @@
     },
     "Flat Waymarks": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Floor is Lava Paladin": {
+      "Settings": {
+        "action.pap": 1,
+        "Grandiose stuff you can disable": 15
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Floral Shade(dt update)": {
+      "Settings": {
+        "Floral Shade": 7,
+        "Silk": 7
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -1285,6 +1726,19 @@
       "Priority": 1,
       "Enabled": true
     },
+    "Garlond GL-IS Purpler": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Gate of Babylon": {
+      "Settings": {
+        "Gate of...": 1,
+        "SFX": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Gay Car": {
       "Settings": {
         "Gamer Lights": 1
@@ -1338,6 +1792,11 @@
       "Priority": 0,
       "Enabled": false
     },
+    "Get Squashed": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Gigachad Ground": {
       "Settings": {},
       "Priority": 0,
@@ -1354,6 +1813,27 @@
         "Coffee Cup": 0,
         "Drink Can": 0,
         "Burger": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Glacial Cascade": {
+      "Settings": {
+        "shoe": 1,
+        "gear": 2
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "GNB Floating Idle": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "GO STRAIGHT AND TURN RIGHT Expedient": {
+      "Settings": {
+        "Oh okay thank you": 0,
+        "GO STRAIGHT AND TURN RIGHT": 1
       },
       "Priority": 0,
       "Enabled": true
@@ -1409,9 +1889,25 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Gunslinger(dt update)": {
+      "Settings": {
+        "topp": 0,
+        "dwnn": 0,
+        "hatt": 0
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
     "HaGayyy": {
       "Settings": {
         "Toggle Sound": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Halo 3 Rat": {
+      "Settings": {
+        "Items": 1
       },
       "Priority": 0,
       "Enabled": true
@@ -1468,6 +1964,13 @@
     },
     "hey hey wave": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "High Heavens(dt version)": {
+      "Settings": {
+        "all": 29
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -1564,6 +2067,11 @@
       "Priority": 0,
       "Enabled": true
     },
+    "I guess thats it": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
     "I SUMMON LEYLINES": {
       "Settings": {},
       "Priority": 0,
@@ -1614,6 +2122,11 @@
       "Priority": 1,
       "Enabled": true
     },
+    "Is Pepsi(s) Okay": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Ishgardian Knight's Armor YAB buff -upscale-": {
       "Settings": {
         "Items": 3
@@ -1644,6 +2157,16 @@
       "Priority": 0,
       "Enabled": true
     },
+    "jade of prosperity": {
+      "Settings": {
+        "Default": 0,
+        "transparency options": 1,
+        "tatoo a options": 1,
+        "tatoo b options": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Jellyfish eScape": {
       "Settings": {},
       "Priority": 0,
@@ -1658,6 +2181,26 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "Jetpack_Icarus_Blue_v1": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Jetpack_Icarus_Green_v1": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Jetpack_Icarus_orange_v1": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Jetpack_Icarus_Purple_v1": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
     },
     "Kaguya-aback lala edition": {
       "Settings": {},
@@ -1694,6 +2237,14 @@
       "Priority": 0,
       "Enabled": true
     },
+    "KK_Edelweiss_Release_V1": {
+      "Settings": {
+        "Basemod": 0,
+        "Engine Turbine Sound (Very Loud)": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "KK_R35_V1": {
       "Settings": {
         "Basemod": 0,
@@ -1720,6 +2271,18 @@
     "KOFFING": {
       "Settings": {
         "SHINY?": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Koroks": {
+      "Settings": {
+        "Required": 0,
+        "Body Colors": 0,
+        "Korok Nose": 1,
+        "Korok Faces": 255,
+        "Korok Long Face": 1,
+        "Branches": 3
       },
       "Priority": 0,
       "Enabled": true
@@ -1787,6 +2350,15 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "lk_Halloween(dt update)": {
+      "Settings": {
+        "衣服": 0,
+        "hatt": 0,
+        "dyeing style": 0
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "loligod": {
       "Settings": {},
@@ -1858,6 +2430,14 @@
       "Priority": 1,
       "Enabled": true
     },
+    "Lunar Eclipse(dt update)": {
+      "Settings": {
+        "all": 15,
+        "lithe+": 7
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
     "MAAAAAAAAN I JUST WANNA BE A GIRAFFE": {
       "Settings": {},
       "Priority": 0,
@@ -1909,10 +2489,22 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Maleficus (Moonglow Emporium Custom + Lightning Aura)": {
+      "Settings": {
+        "New Group": 3
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
     "Maleficus Twinfangs": {
       "Settings": {},
       "Priority": 0,
       "Enabled": false
+    },
+    "Malefikus Lux": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
     },
     "Malevolence is Sus": {
       "Settings": {},
@@ -1958,6 +2550,14 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Melted Smow": {
+      "Settings": {
+        "base": 0,
+        "tights": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
     "MeowGreet1.1": {
       "Settings": {
         "Toggle": 0
@@ -1992,12 +2592,40 @@
       "Priority": 0,
       "Enabled": true
     },
+    "midnight kiss": {
+      "Settings": {
+        "all": 15
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Midnight Mischief": {
+      "Settings": {
+        "Default": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Miku hits you with a pipe": {
       "Settings": {},
       "Priority": 1,
       "Enabled": true
     },
     "Miku Miku Apokalypsis": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Milky Way and Stars(dt update)": {
+      "Settings": {
+        "萨维奈秋意衬衫": 1,
+        "萨维奈垮裤": 1,
+        "萨维奈凉鞋": 1
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Mimesis Lux (Green VFX)": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -2142,12 +2770,24 @@
       "Priority": 0,
       "Enabled": true
     },
+    "nico(dt version)": {
+      "Settings": {
+        "all": 15
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "NicoNiiHop": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
     },
     "Nier Automata Style Ricochet v1_4_0": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "NierClassChange": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -2179,12 +2819,38 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Noir Sash": {
+      "Settings": {
+        "Default": 0,
+        "top options": 0,
+        "fox options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Nokia Tune": {
       "Settings": {
         "Other": 1
       },
       "Priority": 0,
       "Enabled": true
+    },
+    "Ocean Coral(For DT version)": {
+      "Settings": {
+        "Default": 0,
+        "top options": 0,
+        "material options": 0
+      },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "Ocean Coral(for ed versiom)": {
+      "Settings": {
+        "all": 7,
+        "topp options": 0
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "OCN's Y'all want a Girlypop Variety": {
       "Settings": {
@@ -2223,6 +2889,52 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Omega SAGE V3": {
+      "Settings": {
+        "Dosis III": 1,
+        "Eukrasian Dosis III": 1,
+        "Dyskrasia II": 1,
+        "Toxikon II": 1,
+        "Phlegma III": 1,
+        "Pneuma": 1,
+        "Eukrasia": 1,
+        "Diagnosis": 0,
+        "Prognosis": 1,
+        "Eukrasian Diagnosis": 1,
+        "Eukrasian Prognosis": 1,
+        "Druochole": 1,
+        "Taurochole": 1,
+        "Ixochole": 1,
+        "Kerachole": 1,
+        "Pepsis": 1,
+        "Krasis": 1,
+        "Soteria": 1,
+        "Rhizomata": 1,
+        "Zoe": 1,
+        "Physis II": 1,
+        "Holos": 1,
+        "Haima": 1,
+        "Panhaima": 1,
+        "Icarus": 1,
+        "Egeiro": 1,
+        "Kardia": 1,
+        "Techne Makre": 1,
+        "Eukrasian Dyskrasia": 1,
+        "Eukrasian Prognosis II": 1,
+        "Psyche": 1,
+        "Philosophia": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Onmyoji(dt update)": {
+      "Settings": {
+        "Hakuja no Myojin": 15,
+        "Breath of Itsumade": 7
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Oof Fall Damage": {
       "Settings": {},
       "Priority": 0,
@@ -2239,6 +2951,14 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "Orchid Moonlight(materials update)": {
+      "Settings": {
+        "base": 0,
+        "top options": 0
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "PA PA YA!": {
       "Settings": {},
@@ -2278,6 +2998,24 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Party Police": {
+      "Settings": {
+        "Default": 0,
+        "jacket options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "party time(dt update)": {
+      "Settings": {
+        "all": 7,
+        "topp": 0,
+        "shoe": 0,
+        "dwnn": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Peek Around Corner (Updated)": {
       "Settings": {
         "Left Or Right?": 1
@@ -2296,6 +3034,11 @@
       "Enabled": true
     },
     "Pepsi Man (Ultimate)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PEPSIMAN": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -2330,6 +3073,14 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Phoebe": {
+      "Settings": {
+        "New Group": 0,
+        "top options": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Piano Performance": {
       "Settings": {
         "Grand Piano": 15,
@@ -2358,6 +3109,31 @@
     "Pink Deathbringer Ultima": {
       "Settings": {},
       "Priority": 1,
+      "Enabled": true
+    },
+    "Pink Gae Bolg Ultima": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Pink Ultimate Edenmorn Cavalry Bow": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Pink Ultimate Edenmorn Halbard": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Pink Ultimate Halberd of the Heavens": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Pink Ultimate Omega Bayonet": {
+      "Settings": {},
+      "Priority": 0,
       "Enabled": true
     },
     "PipeLily": {
@@ -2420,6 +3196,25 @@
       "Priority": 0,
       "Enabled": true
     },
+    "polar night+(materials update)": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "porcelain hue(dt version)": {
+      "Settings": {
+        "all": 15
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Pot Noodle Costume": {
+      "Settings": {
+        "Default Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "pregmet": {
       "Settings": {},
       "Priority": 0,
@@ -2427,6 +3222,21 @@
     },
     "Princess ride miqo working": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PSO2 Oileu Athena EXQB": {
+      "Settings": {
+        "Size": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "PSO2 Oileu Athena Hagneia": {
+      "Settings": {
+        "Model": 0,
+        "Material": 0
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -2545,6 +3355,11 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Rainpan!": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Ravel Keeper's Twin Guilltotines": {
       "Settings": {},
       "Priority": 0,
@@ -2572,7 +3387,27 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Reincarnation Setsuna(dt version)": {
+      "Settings": {
+        "all": 15,
+        "lithe+": 0,
+        "texturess": 0,
+        "color": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Rescrunkled 7.0 Thancred": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Rescue Lasso + Animation": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Rescue Lasso Default": {
       "Settings": {},
       "Priority": 0,
       "Enabled": false
@@ -2616,6 +3451,14 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Rosy Meridie(update)": {
+      "Settings": {
+        "base": 0,
+        "New Group": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Rotzalia for Citrus": {
       "Settings": {
         "Torso": 0,
@@ -2655,10 +3498,34 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Ruby Sunray++(dt)": {
+      "Settings": {
+        "Default": 0,
+        "top options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Ruby Sunray++(ed)": {
+      "Settings": {
+        "base": 0,
+        "top options": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
     "RULES OF NATURE SUSANO-O": {
       "Settings": {},
       "Priority": 1,
       "Enabled": true
+    },
+    "RV Prop": {
+      "Settings": {
+        "REQUIRED": 0,
+        "Door Options": 1
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "Ryne Unshrinkwrapped": {
       "Settings": {},
@@ -2698,7 +3565,17 @@
       "Priority": 0,
       "Enabled": true
     },
+    "sac d'explorateur fini": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
     "Sad Meow": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "SageBattleVoice": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -2742,6 +3619,13 @@
       "Settings": {},
       "Priority": 2,
       "Enabled": true
+    },
+    "serendipity(dt update)": {
+      "Settings": {
+        "all": 7
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "Shadow the Hedgehoglet": {
       "Settings": {},
@@ -2848,6 +3732,11 @@
       "Priority": 2,
       "Enabled": true
     },
+    "Solemn Vow": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Solona's Naughty for Bimbo": {
       "Settings": {
         "New Group": 15
@@ -2866,8 +3755,15 @@
       "Settings": {
         "Default Group": 0
       },
+      "Priority": 1,
+      "Enabled": true
+    },
+    "souleater(dt update)": {
+      "Settings": {
+        "gear": 0
+      },
       "Priority": 0,
-      "Enabled": false
+      "Enabled": true
     },
     "Sovereign of Cool": {
       "Settings": {},
@@ -2877,6 +3773,13 @@
     "Space Jam Queen Eternal": {
       "Settings": {},
       "Priority": 3,
+      "Enabled": true
+    },
+    "Spider Demoness(materials update)": {
+      "Settings": {
+        "all": 3
+      },
+      "Priority": 0,
       "Enabled": true
     },
     "Spinning Scythe - Grim Reaper": {
@@ -2899,13 +3802,42 @@
       "Priority": 1,
       "Enabled": true
     },
+    "spring prelude": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
     "STAHP Interrupt": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
     },
+    "STAR Martial Legend(dt version)": {
+      "Settings": {
+        "base": 15,
+        "topp": 0,
+        "top dyeing options": 3,
+        "gloves dyeing options": 1,
+        "gloves options": 1,
+        "stocking color options": 0,
+        "stocking options": 0,
+        "panties options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Star Prism - Improved": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Star Rimefrost Fairy": {
+      "Settings": {
+        "New Group": 0,
+        "ice wing": 0,
+        "skirt options": 0,
+        "dyeing options": 0
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -2965,8 +3897,36 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Strawberry Soda(cn version)": {
+      "Settings": {
+        "all": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Strawberry Soda(dt version)": {
+      "Settings": {
+        "all": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Stupid fa-": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "sty": {
+      "Settings": {
+        "all": 7
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "stylish (dt)": {
+      "Settings": {
+        "New Group": 7
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -2978,6 +3938,19 @@
     "SummonerBattleVoice": {
       "Settings": {},
       "Priority": 1,
+      "Enabled": true
+    },
+    "sundo miko": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Sunny Promenade(dt version)": {
+      "Settings": {
+        "all": 7,
+        "optionss": 0
+      },
+      "Priority": 0,
       "Enabled": true
     },
     "Super Mario [Minion]": {
@@ -3077,6 +4050,13 @@
       "Priority": 0,
       "Enabled": true
     },
+    "The Sword-Bat": {
+      "Settings": {
+        "Sword": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "The Workshop Formerly Known As Purple": {
       "Settings": {},
       "Priority": 0,
@@ -3099,6 +4079,13 @@
     },
     "Time to stop": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Toji's Inverted Spear of Heaven for NIN": {
+      "Settings": {
+        "Items": 3
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -3143,6 +4130,15 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Twilight Time(dt update)": {
+      "Settings": {
+        "夏暮沙滩罩衫": 1,
+        "夏暮泳裤": 1,
+        "夏暮凉鞋": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Twin Minions (Melanin Edit)": {
       "Settings": {
         "Items": 2
@@ -3169,6 +4165,25 @@
     },
     "Ultimate Bee's Knees": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Ultimate Bunny+++(For DT version)": {
+      "Settings": {
+        "Default": 0,
+        "top options": 0,
+        "face mask options": 0,
+        "Material options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Ultimate Bunny+++(For ED version)": {
+      "Settings": {
+        "base": 31,
+        "topp options": 0,
+        "mask options": 0
+      },
       "Priority": 0,
       "Enabled": false
     },
@@ -3213,6 +4228,13 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Velkhana_β(dt update)": {
+      "Settings": {
+        "all": 31
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Vera - Sorowfful rose": {
       "Settings": {
         "Everything": 62
@@ -3254,6 +4276,13 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Voltage Heart(dt version)": {
+      "Settings": {
+        "all": 7
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
     "VPR Alt for GNB": {
       "Settings": {},
       "Priority": 0,
@@ -3271,6 +4300,11 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Wandering Firefly": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
     "Warg Jacket of Fending&Maiming For TBSE": {
       "Settings": {
         "New Group": 0,
@@ -3280,6 +4314,11 @@
       "Enabled": true
     },
     "We got him Congratulate": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "WH40K Mechanicus Holo!": {
       "Settings": {},
       "Priority": 0,
       "Enabled": true
@@ -3304,6 +4343,16 @@
       "Priority": 1,
       "Enabled": true
     },
+    "White Prince(dt version)": {
+      "Settings": {
+        "东方美玉衬裙": 1,
+        "东方美玉服": 1,
+        "公主迷你王冠": 1,
+        "东方美玉靴": 1
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
     "White Woman Jumpscare": {
       "Settings": {},
       "Priority": 0,
@@ -3312,6 +4361,11 @@
     "WhitemageBattleVoice": {
       "Settings": {},
       "Priority": 2,
+      "Enabled": true
+    },
+    "WhiteMageBentOverPose": {
+      "Settings": {},
+      "Priority": 0,
       "Enabled": true
     },
     "Why are we still here": {
@@ -3357,13 +4411,30 @@
       "Priority": 0,
       "Enabled": true
     },
+    "Wing Chun(materials update)": {
+      "Settings": {
+        "base": 0,
+        "top options": 0
+      },
+      "Priority": 0,
+      "Enabled": false
+    },
+    "wings of light": {
+      "Settings": {
+        "Default": 0,
+        "wings": 0,
+        "tran": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "Wonderland paladin": {
       "Settings": {
         "Shield of Light": 1,
         "Lightbringer": 1
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "Working_C4": {
       "Settings": {},
@@ -3382,6 +4453,11 @@
       },
       "Priority": 0,
       "Enabled": false
+    },
+    "wutong": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
     },
     "Yak T'el Hrothgar Snooze": {
       "Settings": {},
@@ -3432,6 +4508,14 @@
       "Settings": {},
       "Priority": 0,
       "Enabled": true
+    },
+    "Yukihana Lamy(dt version)": {
+      "Settings": {
+        "all": 31,
+        "lithe+": 0
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "yuweyawata jeuno dress": {
       "Settings": {},
@@ -3572,6 +4656,20 @@
       "Priority": 0,
       "Enabled": true
     },
+    "[aym] en prise.☘": {
+      "Settings": {
+        "dye options": 1
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[aym] etiquette.☘": {
+      "Settings": {
+        "dye options": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "[Bacara] Galaxios Greatsword": {
       "Settings": {},
       "Priority": 0,
@@ -3593,6 +4691,21 @@
       },
       "Priority": 0,
       "Enabled": true
+    },
+    "[cammy] Cute Jousting": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[cammy] Round 1 - Mizi": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[cammy] Round 1 - Sua": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
     },
     "[CROW] Infinity Scissors": {
       "Settings": {},
@@ -3658,6 +4771,13 @@
     },
     "[Elk] Bury the Light to SDS Fenrir": {
       "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[Feri] Prophet Stance (WHMBLM)": {
+      "Settings": {
+        "Prophet Stance": 2
+      },
       "Priority": 0,
       "Enabled": true
     },
@@ -3745,6 +4865,13 @@
       },
       "Priority": 0,
       "Enabled": true
+    },
+    "[JZ] BlackMilk - FFXIV Job Icons Spectre Maxi Dress for tall females": {
+      "Settings": {
+        "Items": 1
+      },
+      "Priority": 0,
+      "Enabled": false
     },
     "[Keysley] Hatsukoi♡Patissiere": {
       "Settings": {
@@ -3883,6 +5010,32 @@
       "Priority": 0,
       "Enabled": true
     },
+    "[Pocky] Fearless Butterfly RUE M": {
+      "Settings": {
+        "Main": 0,
+        "Shirt Toggles": 3
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[RB] Maeve": {
+      "Settings": {
+        "✦ Highlights": 0,
+        "✦ Miqo'te": 0,
+        "✦ Other races": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[RB] ✦ Lola": {
+      "Settings": {
+        "✦ Highlights options": 0,
+        "✦ Miqo'te ear options": 0,
+        "✦ Hair": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
     "[RH] Shut up bitch": {
       "Settings": {},
       "Priority": 0,
@@ -3892,6 +5045,15 @@
       "Settings": {
         "Beans, Beans, Good for your heart the more you eat....": 0,
         "Skunk'n Heimer's \"Special mix\"": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "[RoseBerry] Eve": {
+      "Settings": {
+        "Highlights": 0,
+        "Miqo'te": 0,
+        "Other races": 63
       },
       "Priority": 0,
       "Enabled": true
@@ -4044,7 +5206,7 @@
         "-upscale": 1
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "幽零舞池替换第九方案主城": {
       "Settings": {},
