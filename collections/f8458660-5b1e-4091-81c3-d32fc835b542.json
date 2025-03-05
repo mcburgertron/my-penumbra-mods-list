@@ -805,7 +805,7 @@
         "Default Group": 0
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "Carmine Feather": {
       "Settings": {},
@@ -861,6 +861,11 @@
       "Settings": {
         "Binary Star Combo": 7
       },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "Chad Lalafell": {
+      "Settings": {},
       "Priority": 0,
       "Enabled": true
     },
@@ -3164,6 +3169,14 @@
       "Settings": {
         "Animation [ Cheer Jump ]": 0,
         "Music [ BGM ]": 0
+      },
+      "Priority": 0,
+      "Enabled": true
+    },
+    "PM ~ My Deer Friend Nokotan": {
+      "Settings": {
+        "Animation": 0,
+        "Music": 0
       },
       "Priority": 0,
       "Enabled": true
