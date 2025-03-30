@@ -222,14 +222,14 @@
         "New Group": 0
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "Alice Madness Returns-Hattres": {
       "Settings": {
         "New Group": 0
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "Alice Madness Returns-Hysteria": {
       "Settings": {
@@ -244,14 +244,14 @@
         "Dress": 0
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "Alice Madness Returns-London": {
       "Settings": {
         "New Group": 0
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "Alice Madness Returns-Misstitched": {
       "Settings": {
@@ -274,7 +274,7 @@
         "New Group": 0
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "Alice Madness Returns-Siren": {
       "Settings": {
@@ -282,14 +282,14 @@
         "Model": 0
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "Alice Madness Returns-Steam Dress": {
       "Settings": {
         "New Group": 0
       },
       "Priority": 0,
-      "Enabled": true
+      "Enabled": false
     },
     "Alice Madness Returns-Wonderland": {
       "Settings": {
