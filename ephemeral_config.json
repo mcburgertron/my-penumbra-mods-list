@@ -16,5 +16,6 @@
   "FixMainWindow": false,
   "LastModPath": "Alice Madness Returns-Flesh Maiden",
   "AdvancedEditingOpen": false,
-  "ForceRedrawOnFileChange": false
+  "ForceRedrawOnFileChange": false,
+  "IncognitoMode": false
 }
